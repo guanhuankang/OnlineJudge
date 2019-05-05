@@ -1,7 +1,7 @@
 {
-	"host":"www.klove.top",
-	"password":"kangba",
-	"user":"judger",
-	"port":3306,
+	"host":"",
+	"password":"",
+	"user":"",
+	"port":,
 	"db":"OJ"
 }
